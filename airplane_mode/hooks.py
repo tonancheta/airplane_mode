@@ -3,7 +3,11 @@ from . import __version__ as app_version
 app_name = "airplane_mode"
 app_title = "Airplane Mode"
 app_publisher = "Ton"
+<<<<<<< HEAD
 app_description = "Hypothetical airline reservation system"
+=======
+app_description = "Hypothetical flight ticket system"
+>>>>>>> f9d67fdf37192b1a07ac69c019709884cb0220c7
 app_email = "ton@xurpas.com"
 app_license = "MIT"
 

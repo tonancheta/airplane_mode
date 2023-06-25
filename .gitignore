@@ -3,5 +3,9 @@
 *.egg-info
 *.swp
 tags
+<<<<<<< HEAD
 airplane_mode/docs/current
 node_modules/
+=======
+node_modules
+>>>>>>> f9d67fdf37192b1a07ac69c019709884cb0220c7
